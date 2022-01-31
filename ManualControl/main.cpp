@@ -16,7 +16,7 @@ int main()
         
         cout<<endl;
         cout << "R - Rotate" << endl; 
-        cout << "Q - Print numbers" << endl; 
+        cout << "Q - Quit" << endl; 
         cout<<endl;
         cout << "Enter your choice: "; 
         cin >> choice ;
